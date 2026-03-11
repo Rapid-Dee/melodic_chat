@@ -1,0 +1,5 @@
+main: dee.plugin.melodic_chat
+version: 1.0.0-SNAPSHOT
+name: melodic_chat
+author: Rapid_Dee
+api-version: 1.16
